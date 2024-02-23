@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>//Se debe incluir en el encabezado del codigo la libreria de <string>
 using namespace std;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
