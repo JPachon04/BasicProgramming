@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
 			cout<<"Hoy es sabado";
 			break;
 		case 7:
-			cout<<"Hor es domingo";
+			cout<<"Hoy es domingo";
 			break;
 		default:
 		cout<<"Buscando el dia;(";
