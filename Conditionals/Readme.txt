@@ -1,4 +1,4 @@
-Aqui van los ejercicios de condicionales
+Aqui van los ejercicios de condicionales //Switch//
 #include <iostream>
 using namespace std;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
